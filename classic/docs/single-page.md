@@ -30,7 +30,13 @@ Welcome to the documentation for the Crypto Dashboard! This website provides use
 - This feature tracks the overall performance of cryptocurrencies over the years.
 - It serves as a comprehensive market index that reflects the state of the crypto market.
 
-### 5. **Dashboard for Future Enhancements**
+### 5. **Data Fetching and React Query**
+
+- The data is fetched from **CoinGecko**, one of the leading sources for real-time cryptocurrency market data.
+- This project utilizes **React Query**, which simplifies data fetching, caching, and state management.
+- I chose **React** because it’s a framework that makes development easier, and it aligns well with my experience in frontend development.
+
+### 6. **Dashboard for Future Enhancements**
 
 - A sidebar dashboard has been integrated into the interface.
 - While currently minimal, future implementations will include:
@@ -38,10 +44,16 @@ Welcome to the documentation for the Crypto Dashboard! This website provides use
   - **Organization Tools**: Improved tracking and management options for cryptocurrencies.
 - Due to time constraints, these features have not been fully implemented yet but are planned for future updates.
 
-### 6. **Mobile-Friendly Interface**
+### 7. **Mobile-Friendly Interface**
 
 - The website is optimized for both desktop and mobile devices.
 - Users can seamlessly navigate and view market data on their smartphones or tablets.
+
+## Challenges Faced
+
+- **Time Constraints**: Balancing this project with other commitments was tough. I had to squeeze in as much development time as possible, even when I was busy.
+- **Could Have Done More**: While I did my best, I know I could have done better with more time.
+- **Implementation Trade-offs**: Some features, like a more advanced search and deeper dashboard functionality, had to be postponed due to time limitations.
 
 ## Future Plans
 
