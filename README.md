@@ -49,5 +49,5 @@ For any questions or feedback, feel free to reach out!
 
 ---
 
-🚀 Stay tuned for more updates!
+🚀 READ DOCUSAURUS FOR MORE!
 
