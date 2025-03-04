@@ -8,10 +8,15 @@ Welcome to the documentation for the Crypto Dashboard! This website provides use
 
 ### 1. **Search Functionality (In Development)**
 
-- Users can press the search icon to look up different cryptocurrencies.
+- Users can press the search icon, located in the **bottom right**, to look up different cryptocurrencies.
 - Currently, this feature is still in development and will be enhanced in future versions.
 
-### 2. **Real-Time Cryptocurrency Listings**
+### 2. **Recent Viewed Coins**
+
+- A **recently viewed** section helps users keep track of the cryptocurrencies they were last viewing.
+- This allows for easy navigation and quick reference to frequently checked coins.
+
+### 3. **Real-Time Cryptocurrency Listings**
 
 - The main interface displays a selection of key cryptocurrencies, including:
   - **Bitcoin (BTC)**
@@ -20,12 +25,12 @@ Welcome to the documentation for the Crypto Dashboard! This website provides use
   - **Dogecoin (DOGE)**
 - These coins are presented with their latest market data, allowing users to stay updated on their performance.
 
-### 3. \*\*Massive S&P BDM (Broad Digital Market Index)
+### 4. **Massive S&P BDM (Broad Digital Market Index)**
 
 - This feature tracks the overall performance of cryptocurrencies over the years.
 - It serves as a comprehensive market index that reflects the state of the crypto market.
 
-### 4. **Dashboard for Future Enhancements**
+### 5. **Dashboard for Future Enhancements**
 
 - A sidebar dashboard has been integrated into the interface.
 - While currently minimal, future implementations will include:
@@ -33,7 +38,7 @@ Welcome to the documentation for the Crypto Dashboard! This website provides use
   - **Organization Tools**: Improved tracking and management options for cryptocurrencies.
 - Due to time constraints, these features have not been fully implemented yet but are planned for future updates.
 
-### 5. **Mobile-Friendly Interface**
+### 6. **Mobile-Friendly Interface**
 
 - The website is optimized for both desktop and mobile devices.
 - Users can seamlessly navigate and view market data on their smartphones or tablets.
